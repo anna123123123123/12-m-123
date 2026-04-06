@@ -7,49 +7,49 @@ body{
 	background:url(img/Зима26.png);
 }
 .box{
-	width:960px;
-	margin:50px auto;
+	width:960 px;
+	margin:50 px auto;
 	background:#fff;
 	border:20 px;
 }
 img{
-	padding-top:200px;
-	height:200px;
+	padding-top:200 px;
+	height:200 px;
 	text-align:center;
 }
 h1{
 	text-align:center;
 	collor:#ac1406;
-	font-size:50px;
+	font-size:50 px;
 }
 h2{
-	font-size:40px;
-	padding-top:20px;
+	font-size:40 px;
+	padding-top:20 px;
 	collor:#213210;
 	text-align:center;
 }
 h3{
-	fant-size:30px;
+	fant-size:30 px;
 	text-align:center;
-	padding-top:20px;
+	padding-top:20 px;
 	collor:#213210;
 }
 h4{
-	font-size:20px;
+	font-size:20 px;
 	text-align:center;
-	padding-top:10px;
-	padding-bottom:10px;
+	padding-top:10 px;
+	padding-bottom:10 px;
 	collor:#fff;
 	background:#738b2a;
-	padding-top:10px;
+	padding-top:10 px;
 }
 p{
 collor:#00066;
-fant-size:20px;
+fant-size:20 px;
 }
 .poem{
 	text-align:center;
-	padding-top:10px;
+	padding-top:10 px;
 }
 .text1{
 	text-align:left;
